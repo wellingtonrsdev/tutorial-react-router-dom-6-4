@@ -35,6 +35,7 @@ export function getInvoices() {
   return invoices;
 }
 
-export function getInvoice(number: never) {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export function getInvoice(number: any) {
   return invoices.find((invoice) => invoice.number === number);
 }
