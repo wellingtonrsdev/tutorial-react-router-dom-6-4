@@ -40,10 +40,10 @@ Este projeto foi desenvolvido para explorar as funcionalidades do React Router D
 12. **Limpeza do Projeto e Organização:**
     - Estruturação inicial e limpeza de arquivos para manter o código organizado e facilitar o desenvolvimento.
 
-## Tutorial URL
+### Documentação
 
 https://reactrouter.com/en/v6.3.0/getting-started/tutorial
-## Versions
+## Versões
 ```
 Nodejs: 18.9.1
 Yarn: 1.22.19
@@ -54,7 +54,7 @@ Yarn: 1.22.19
 "react-router-dom": "6.4.1"
 "@types/react-router-dom": "5.3.3",
 ```
-## Lib instalation
+### Instalação da biblioteca
 ```
 yarn add react-router-dom@6.4.1 @types/react-router-dom@5.3.3
 ```
