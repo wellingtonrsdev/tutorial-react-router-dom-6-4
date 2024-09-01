@@ -40,6 +40,25 @@ Este projeto foi desenvolvido para explorar as funcionalidades do React Router D
 12. **Limpeza do Projeto e Organização:**
     - Estruturação inicial e limpeza de arquivos para manter o código organizado e facilitar o desenvolvimento.
 
+## Tutorial URL
+
+https://reactrouter.com/en/v6.3.0/getting-started/tutorial
+## Versions
+```
+Nodejs: 18.9.1
+Yarn: 1.22.19
+```
+```
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-router-dom": "6.4.1"
+"@types/react-router-dom": "5.3.3",
+```
+## Lib instalation
+```
+yarn add react-router-dom@6.4.1 @types/react-router-dom@5.3.3
+```
+
 ### Objetivo do Projeto
 
 O projeto serve como uma demonstração prática de como utilizar o React Router DOM para criar uma navegação eficiente e dinâmica em aplicações React, abordando desde a configuração básica até o uso avançado de rotas aninhadas e parâmetros de URL.
